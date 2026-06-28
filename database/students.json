@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Mashik",
+        "age": 23,
+        "course": "BCA",
+        "marks": {
+            "maths": 90,
+            "english": 88,
+            "science": 85
+        }
+    },
+    {
+        "id": 2,
+        "name": "Absar",
+        "age": 24,
+        "course": "BTECH",
+        "marks": {
+            "maths": 99,
+            "english": 99,
+            "science": 90
+        }
+    },
+    {
+        "id": 3,
+        "name": "Dheen",
+        "age": 25,
+        "course": "BSc",
+        "marks": {
+            "maths": 92,
+            "english": 88,
+            "science": 83
+        }
+    }
+]
